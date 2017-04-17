@@ -10,6 +10,7 @@ Installation
 
 You can choose your preferred method of installation:
 * Download from github: [ngPrint.min.js](https://github.com/gilf/ngPrint/blob/master/ngPrint.min.js)
+* `$ bower install ngPrint --save`
 
 Usage
 -----
